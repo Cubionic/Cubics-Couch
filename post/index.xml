@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cubic&#39;s Couch</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Cubic&#39;s Couch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a website using Hugo.</title>
+      <link>/post/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugo/</guid>
+      <description>⬅️ Back to Posts ..
+Building a website sure is a tough thing to do unless you are using Hugo, the fastest static site generator. Using Hugo, Make websites is now easier than ever! You just have to follow a few simple steps and make your very own Website! Create a website using Hugo! I wanted to share this quick tutorial of installing Hugo on my Windows 10 machine to start the journey with yall :)</description>
+    </item>
+    
+    <item>
+      <title>Start being productive from Today!</title>
+      <link>/post/productive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/productive/</guid>
+      <description>⠀ Sup fellow let me tell you that it&amp;rsquo;s not irrelevant, when you are coding, you need to be productive and concentrated to complete a &amp;lsquo;job&amp;rsquo; in a considerate amount of time. Without having a boost of productivity and concentration, the work would be more tiring and work would feel considerably more lengthy and challenging. Meanwhile, boosted productivity levels would not only make you feel energetic and zestful but also will make the &amp;lsquo;job&amp;rsquo; feel more enjoyable and entertaining!</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>/post/nextblog/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/nextblog/</guid>
+      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at installing hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+  </channel>
+</rss>
